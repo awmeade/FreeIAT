@@ -1,0 +1,29 @@
+?[Title] Personality
+[Stimuli-1 Label] Like Me
+[Stimuli-2 Label] Not Like Me
+[Stimuli-1] Like Me
+[Stimuli-2] Not Like Me
+[WordSet-1 Label] Dependable
+[WordSet-1 Label] Dependable
+[WordSet-2 Label] Undependable
+[WordSet-2 Label] Undependable
+[WordSet-1] Hardworking
+[WordSet-1] Helpful
+[WordSet-1] Innovative
+[WordSet-1] Motivated
+[WordSet-1] Professional
+[WordSet-1] Reliable
+[WordSet-1] Responsible
+[WordSet-2] Lazy
+[WordSet-2] Rigid
+[WordSet-2] Slow
+[WordSet-2] Unreliable
+[WordSet-2] Useless
+[WordSet-2] Worthless
+[WordSet-2] Incompetent
+[Stage-1 Trials] 5
+[Stage-2 Trials] 5
+[Stage-3 Trials] 6
+[Stage-4 Trials] 5
+[Stage-5 Trials] 7
+[Output Delimiter] Comma

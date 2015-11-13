@@ -1,0 +1,56 @@
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.exe.manifest
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.application
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.exe
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.pdb
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.xml
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.HelpForm.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.SetUp2.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.SetUp3.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.SetUp4.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.SetUpForm.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.TestWords.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.Info.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.Resources.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.StartForm.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.TestPics.resources
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.exe.manifest
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.application
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.exe
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.xml
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.pdb
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\Interop.InetCtlsObjects.dll
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\Interop.SHDocVw.dll
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\AxInterop.InetCtlsObjects.dll
+C:\Documents and Settings\Adam Meade\My Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.Updates.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\Interop.SHDocVw.dll
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.vbproj.ResolveComReference.cache
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.exe
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.xml
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.pdb
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.exe.manifest
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.application
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.exe
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.pdb
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\IATapp1.xml
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\bin\Release\Interop.SHDocVw.dll
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.AboutBox1.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.HelpForm.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.SetUp2.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.SetUp3.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.SetUp4.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.SetUpForm.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.TestWords.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.Info.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.Resources.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.StartForm.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapplication1.TestPics.resources
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.vbproj.GenerateResource.Cache
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.exe.manifest
+C:\Users\Meade\Documents\Visual Studio 2008\Projects\IATapp1\IATapp1\obj\Release\IATapp1.application

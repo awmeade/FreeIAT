@@ -1,0 +1,38 @@
+[Title] African American - European American
+[Stimuli-1 Label] Positive Words
+[Stimuli-2 Label] Negative Words
+[Stimuli-1] Good
+[Stimuli-1] Joy
+[Stimuli-1] Love
+[Stimuli-1] Peace
+[Stimuli-1] Wonderful
+[Stimuli-1] Pleasure
+[Stimuli-1] Glorious
+[Stimuli-1] Laughter
+[Stimuli-1] Happy
+[Stimuli-2] Bad
+[Stimuli-2] Agony
+[Stimuli-2] Terrible
+[Stimuli-2] Horrible
+[Stimuli-2] Nasty
+[Stimuli-2] Evil
+[Stimuli-2] Awful
+[Stimuli-2] Failure
+[Stimuli-2] Hurt
+[WordSet-1 Label] Words 1
+[WordSet-2 Label] Words 2
+[WordSet-1] Set1 a
+[WordSet-1] Set1 b
+[WordSet-1] Set1 c
+[WordSet-1] Set1 d
+[WordSet-1] Set1 e
+[WordSet-2] Set2 a
+[WordSet-2] Set2 b
+[WordSet-2] Set2 c
+[WordSet-2] Set2 d
+[WordSet-2] Set2 e
+[Stage-1 Trials] 5
+[Stage-2 Trials] 5
+[Stage-3 Trials] 5
+[Stage-4 Trials] 5
+[Stage-5 Trials] 5

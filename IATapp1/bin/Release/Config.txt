@@ -1,0 +1,38 @@
+[Title] Race
+[Stimuli-1 Label] Positive Words
+[Stimuli-2 Label] Negative Words
+[Stimuli-1] Good
+[Stimuli-1] Joy
+[Stimuli-1] Love
+[Stimuli-1] Peace
+[Stimuli-1] Wonderful
+[Stimuli-1] Pleasure
+[Stimuli-1] Glorious
+[Stimuli-1] Laughter
+[Stimuli-1] Happy
+[Stimuli-2] Bad
+[Stimuli-2] Agony
+[Stimuli-2] Terrible
+[Stimuli-2] Horrible
+[Stimuli-2] Nasty
+[Stimuli-2] Evil
+[Stimuli-2] Awful
+[Stimuli-2] Failure
+[Stimuli-2] Hurt
+[ImageSet-1 Label] African Americans
+[ImageSet-2 Label] European Americans
+[ImageSet-1] example\black_1.jpg
+[ImageSet-1] example\black_2.jpg
+[ImageSet-1] example\black_3.jpg
+[ImageSet-1] example\black_4.jpg
+[ImageSet-1] example\black_5.jpg
+[ImageSet-2] example\white_1.jpg
+[ImageSet-2] example\white_2.jpg
+[ImageSet-2] example\white_3.jpg
+[ImageSet-2] example\white_4.jpg
+[ImageSet-2] example\white_5.jpg
+[Stage-1 Trials] 5
+[Stage-2 Trials] 5
+[Stage-3 Trials] 5
+[Stage-4 Trials] 5
+[Stage-5 Trials] 5

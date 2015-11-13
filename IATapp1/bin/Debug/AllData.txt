@@ -1,0 +1,180 @@
+﻿Participant: Participant1 Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+5/15/2008 11:38:09 AM
+Block 1: black_2.jpg 1 2383 white_2.jpg 1 671 black_2.jpg 1 591 white_4.jpg 1 623 black_1.jpg 1 688
+Block 1 Time: 4956
+Block 2: Wonderful 1 983 Happy 1 773 Evil 1 662 Joy 1 920 Evil 0 1207
+Block 2 Time: 4545
+Block 3: Evil 1 2256 black_5.jpg 1 660 black_2.jpg 1 1177 white_2.jpg 1 1526 black_5.jpg 1 784
+Block 3 Time: 6403
+Block 4: black_3.jpg 1 1143 black_4.jpg 1 686 white_2.jpg 1 1535 white_3.jpg 1 999 white_2.jpg 1 477
+Block 4 Time: 4840
+Block 5: Glorious 1 1485 Awful 1 735 white_4.jpg 1 658 Happy 1 686 Laughter 1 651
+Block 5 Time: 4215
+Participant: Participant2 Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+5/15/2008 11:38:47 AM
+Block 1: white_1.jpg 1 1171 black_1.jpg 1 704 white_2.jpg 1 590 black_5.jpg 1 936 white_5.jpg 1 713
+Block 1 Time: 4114
+Block 2: Evil 1 1462 Failure 1 745 Love 1 900 Laughter 1 549 Joy 1 528
+Block 2 Time: 4184
+Block 3: white_3.jpg 1 654 Laughter 1 730 Horrible 1 823 white_4.jpg 1 707 black_3.jpg 1 707
+Block 3 Time: 3621
+Block 4: black_3.jpg 1 1250 black_1.jpg 1 606 white_3.jpg 1 634 black_2.jpg 1 756 white_1.jpg 1 583
+Block 4 Time: 3829
+Block 5: white_1.jpg 1 587 black_3.jpg 1 711 Love 1 631 black_5.jpg 1 1077 Wonderful 1 626
+Block 5 Time: 3632
+Participant: Participant3 Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+5/15/2008 11:39:23 AM
+Block 1: black_1.jpg 1 1085 black_4.jpg 1 598 white_1.jpg 1 617 black_5.jpg 1 979 black_2.jpg 1 746
+Block 1 Time: 4025
+Block 2: Horrible 1 1023 Awful 1 561 Glorious 1 710 Failure 1 660 Bad 1 1026
+Block 2 Time: 3980
+Block 3: black_1.jpg 1 915 white_5.jpg 1 670 black_4.jpg 1 520 black_1.jpg 1 551 Good 1 1155
+Block 3 Time: 3811
+Block 4: white_2.jpg 1 974 black_1.jpg 1 535 white_5.jpg 1 476 white_3.jpg 1 514 black_4.jpg 1 592
+Block 4 Time: 3091
+Block 5: black_3.jpg 0 1602 white_2.jpg 1 711 Glorious 1 672 black_3.jpg 1 582 Love 1 606
+Block 5 Time: 4173
+Participant: dasfg Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+5/19/2008 3:14:38 PM
+Block 1: black_5.jpg 1 3277 white_4.jpg 1 3180 black_3.jpg 1 794 black_2.jpg 1 640 black_4.jpg 1 512
+Block 1 Time: 8403
+Block 2: Bad 1 38097 Laughter 1 822 Good 1 640 Happy 1 543 Bad 0 1048
+Block 2 Time: 41150
+Block 3: black_3.jpg 1 3234 Love 1 6410 white_1.jpg 1 24488 Pleasure 0 2371 black_3.jpg 1 751
+Block 3 Time: 37254
+Block 4: black_5.jpg 1 2372 white_5.jpg 1 2704 black_1.jpg 1 1889 white_5.jpg 1 20925 white_4.jpg 1 1171
+Block 4 Time: 29061
+Block 5: white_3.jpg 1 1234 Laughter 1 1151 Failure 1 1382 black_5.jpg 1 1863 black_1.jpg 1 96198
+Block 5 Time: 101828
+Participant: szdfg Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+6/16/2008 11:45:05 AM
+Block 1: images/white_3.jpg 1 2106 images/white_2.jpg 1 554 images/white_3.jpg 1 444 images/white_4.jpg 1 421 images/black_5.jpg 0 1655
+Block 1 Time: 5180
+Block 2: Bad 1 996 Evil 1 608 Bad 1 733 Good 1 717 Failure 1 748
+Block 2 Time: 3802
+Block 3: Failure 1 1427 Agony 1 1233 Failure 1 781 Love 1 1422 Hurt 1 810
+Block 3 Time: 5673
+Block 4: images/black_2.jpg 1 1263 images/white_4.jpg 1 718 images/white_2.jpg 1 671 images/white_3.jpg 1 640 images/black_2.jpg 1 671
+Block 4 Time: 3963
+Block 5: Joy 1 1026 images/black_2.jpg 1 1170 Joy 1 701 images/white_1.jpg 1 826 Pleasure 1 906
+Block 5 Time: 4629
+Participant: asdfa Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+7/4/2008 12:46:35 PM
+Block 1: white_4.jpg 1 818 black_2.jpg 1 259 black_1.jpg 1 428 white_1.jpg 1 648 white_5.jpg 1 353
+Block 1 Time: 2506
+Block 2: Hurt 1 1283 Terrible 1 529 Laughter 1 661 Agony 1 746 Glorious 1 716
+Block 2 Time: 3935
+Block 3: images/white_2.jpg 1 1378 Glorious 1 1510 images/white_1.jpg 1 972 Pleasure 1 649 Glorious 1 702
+Block 3 Time: 5211
+Block 4: images/white_5.jpg 1 879 images/black_3.jpg 1 565 images/white_1.jpg 1 456 images/white_3.jpg 1 615 images/white_1.jpg 1 679
+Block 4 Time: 3194
+Block 5: images/black_1.jpg 1 1047 Good 1 1513 images/black_1.jpg 1 703 Good 1 665 Evil 1 779
+Block 5 Time: 4707
+Participant: adsf Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+7/4/2008 12:53:56 PM
+Block 1: images\white_1.jpg 1 2540 images\black_5.jpg 1 1327 images\white_2.jpg 1 595 images\white_5.jpg 1 515 images\black_4.jpg 1 623
+Block 1 Time: 5600
+Block 2: Evil 1 1435 Glorious 1 647 Horrible 0 1188 Laughter 1 582 Love 1 624
+Block 2 Time: 4476
+Block 3: Love 1 1070 images\white_5.jpg 1 1030 Bad 0 1246 Joy 0 1231 images\black_5.jpg 1 957
+Block 3 Time: 5534
+Block 4: images\white_1.jpg 0 1506 images\black_1.jpg 0 1286 images\white_5.jpg 1 1400 images\black_1.jpg 1 606 images\white_4.jpg 1 631
+Block 4 Time: 5429
+Block 5: Happy 1 1297 images\white_5.jpg 0 1607 images\black_1.jpg 1 1142 Good 1 687 Peace 1 735
+Block 5 Time: 5468
+Participant: sdfasdf Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+7/4/2008 1:07:43 PM
+Block 1: white_1.jpg 1 852 black_2.jpg 1 693 black_3.jpg 1 671 white_4.jpg 1 598 black_3.jpg 1 560
+Block 1 Time: 3374
+Block 2: Terrible 1 1427 Peace 1 679 Awful 1 789 Peace 1 665 Terrible 1 691
+Block 2 Time: 4251
+Block 3: black_3.jpg 1 1884 Love 1 1801 Agony 1 1855 Hurt 1 1239 Peace 1 774
+Block 3 Time: 7553
+Block 4: black_1.jpg 1 1082 white_1.jpg 1 92 white_2.jpg 1 413 black_1.jpg 1 353 black_2.jpg 0 1105
+Block 4 Time: 3045
+Block 5: Joy 1 1244 Bad 1 882 Happy 1 506 Terrible 1 709 Bad 0 1368
+Block 5 Time: 4709
+Participant: sfdgbsdfg Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+7/30/2008 8:58:55 AM
+Block 1: black_4.jpg 1 2191 black_2.jpg 1 671 white_2.jpg 1 624 black_1.jpg 0 718 black_4.jpg 1 670
+Block 1 Time: 4874
+Block 2: Good 1 934 Nasty 1 593 Horrible 0 920 Love 0 827 Wonderful 0 795
+Block 2 Time: 4069
+Block 3: black_2.jpg 1 947 Bad 1 717 Wonderful 1 905 black_3.jpg 1 599 Agony 1 928
+Block 3 Time: 4096
+Block 4: white_3.jpg 1 1276 white_4.jpg 1 468 black_1.jpg 1 577 white_5.jpg 1 398 black_2.jpg 1 624
+Block 4 Time: 3343
+Block 5: Bad 0 1901 Wonderful 1 1029 white_4.jpg 1 1091 Peace 0 1763 black_3.jpg 1 1248
+Block 5 Time: 7032
+Participant: asdfa Test: Race. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+11/9/2009 10:00:53 AM
+Block 1: black_4.jpg 1 1411 black_3.jpg 1 1173 black_4.jpg 1 985 white_2.jpg 1 1010 black_4.jpg 1 710
+Block 1 Time: 5289
+Block 2: Peace 0 1840 Terrible 1 1706 Agony 1 685 Peace 1 754 Horrible 1 901
+Block 2 Time: 5886
+Block 3: Horrible 1 1701 Agony 1 809 Pleasure 0 1999 black_4.jpg 0 1174 Terrible 1 447
+Block 3 Time: 6130
+Block 4: black_2.jpg 0 805 white_1.jpg 1 636 black_3.jpg 1 392 white_1.jpg 1 358 white_5.jpg 0 748
+Block 4 Time: 2939
+Block 5: Wonderful 1 998 black_3.jpg 0 979 Agony 0 1153 Peace 0 755 white_4.jpg 1 332
+Block 5 Time: 4217
+Participant: fsadgf Test:  Personality. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+11/9/2009 10:49:43 AM
+Block 1: Professional,0,1396,Reliable,0,336,Unreliable,1,87,Responsible,1,88,Rigid,1,88
+Block 1 Time: 1995
+Block 2: Like Me,1,470,Not Like Me,1,54,Like Me,1,79,Not Like Me,1,62,Like Me,1,51
+Block 2 Time: 716
+Block 3: Hardworking,1,410,Not Like Me,1,69,Hardworking,1,112,Not Like Me,1,106,Like Me,1,96
+Block 3 Time: 793
+Block 4: Innovative,0,538,Reliable,0,173,Unreliable,1,121,Reliable,1,189,Useless,1,58
+Block 4 Time: 1079
+Block 5: Professional,0,697,Slow,1,110,Like Me,0,674,Worthless,1,156,Like Me,0,422
+Block 5 Time: 2059
+Participant: adfs Test:  Personality. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+11/9/2009 10:50:14 AM
+Block 1: Helpful,1,588,Reliable,0,393,Motivated,0,623,Worthless,0,805,Reliable,1,304
+Block 1 Time: 2713
+Block 2: Like Me,1,344,Not Like Me,1,239,Like Me,0,613,Not Like Me,1,202,Like Me,0,888
+Block 2 Time: 2286
+Block 3: Like Me,1,393,Slow,1,115,Innovative,0,455,Slow,1,86,Like Me,1,187
+Block 3 Time: 1236
+Block 4: Incompetent,1,297,Professional,1,73,Helpful,0,135,Motivated,1,198,Rigid,0,329
+Block 4 Time: 1032
+Block 5: Hardworking,0,442,Like Me,0,449,Not Like Me,1,87,Like Me,0,490,Not Like Me,1,58
+Block 5 Time: 1526
+Participant: asdfaf Test:  Personality. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+11/16/2009 8:12:22 PM
+Block 1: Innovative,1,4486,Responsible,1,1828,Innovative,1,886,Professional,1,884,Unreliable,1,946
+Block 1 Time: 9030
+Block 2: Not Like Me,1,1402,Like Me,1,546,Not Like Me,1,541,Like Me,1,565,Not Like Me,1,675
+Block 2 Time: 3729
+Block 3: Slow,1,2344,Like Me,1,953,Not Like Me,1,757,Like Me,1,775,Rigid,1,1219
+Block 3 Time: 6048
+Block 4: Incompetent,0,2415,Rigid,1,720,Hardworking,1,940,Motivated,1,616,Responsible,1,595
+Block 4 Time: 5286
+Block 5: Responsible,1,2132,Like Me,1,834,Incompetent,1,1630,Hardworking,1,1015,Helpful,0,2573
+Block 5 Time: 8184
+Participant: test FHalf Test:  Personality. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+11/28/2009 12:58:51 PM
+Block 1: Responsible,1,1341,Hardworking,1,987,Reliable,1,595,Responsible,1,595,Reliable,1,548
+Block 1 Time: 4066
+Block 2: Like Me,1,940,Not Like Me,1,521,Like Me,1,519,Not Like Me,1,413,Like Me,1,445
+Block 2 Time: 2838
+Block 3: Reliable,1,882,Worthless,1,873,Not Like Me,1,1054,Like Me,1,655,Motivated,1,1003
+Block 3 Time: 4467
+Block 4: Incompetent,1,1002,Useless,1,611,Hardworking,1,602,Reliable,1,532,Professional,1,597
+Block 4 Time: 3344
+Block 5: Like Me,1,1364,Helpful,1,1235,Slow,1,957,Not Like Me,1,826,Useless,1,1134
+Block 5 Time: 5516
+Participant: test 2 Test:  Personality. Format is stimulus, correct(1)/incorrect(0), time(ms).  Writes 10 trials per line.
+11/28/2009 1:08:43 PM
+Block 1: Hardworking,0,1410,Reliable,1,582,Lazy,1,773,Slow,1,617,Unreliable,1,613
+Block 1 Time: 3995
+Block 2: Not Like Me,1,938,Like Me,1,484,Not Like Me,1,516,Like Me,1,520,Not Like Me,1,517
+Block 2 Time: 2975
+Block 3: Like Me,1,858,Not Like Me,1,654,Innovative,0,1496,Worthless,1,701,Motivated,0,1603,Not Like Me,1,762
+Block 3 Time: 6074
+Block 4: Innovative,1,1076,Unreliable,1,631,Worthless,0,1118,Rigid,1,833,Reliable,0,1059
+Block 4 Time: 4717
+Block 5: Not Like Me,1,868,Innovative,1,1221,Like Me,1,915,Innovative,1,804,Professional,1,685,Motivated,1,922,Like Me,1,1131
+Block 5 Time: 6546
