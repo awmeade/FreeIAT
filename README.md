@@ -3,7 +3,7 @@ Public repository for the FreeIAT program
 
 See http://www4.ncsu.edu/~awmeade/FreeIAT/FreeIAT.htm
 
-Frequently Asked Questions
+<h2>Frequently Asked Questions</h2>
  
 Can I run the program from a USB drive?
 
